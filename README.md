@@ -18,11 +18,7 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = RonielNunes )] (https://github.com/anuraghazra/github-readme-stats)
 
 
