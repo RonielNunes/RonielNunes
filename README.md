@@ -1,26 +1,44 @@
-### Hi there, I'm Roniel!👋
+# 🌎 **Hello, World!** **:D**.**I'm** **Roniel**👋
 
-<!--
-**RonielNunes/RonielNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇪🇸 : [Versión en español]()
 
-Here are some ideas to get you started:
+🇧🇷 : [Versão em português]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://github.com/anuraghazra/github-readme-stats#github-stats-card
--->
+- 👨‍💻 Computer Science Student at Universidade Federal de Viçosa(UFV) - Campus Florestal;
 
+## 📈 **Stats**
 
+<div align="center">
+  <br>
+  <a href="https://github.com/RonielNunes"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonielNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonielNunes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RonielNunes&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonielNunes&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<!--Icones : https://github.com/devicons/devicon/tree/master/icons-->
 
+## 🛠 **Technologies and Tools**  
+<div align="center" style="display: inline_block">
+  <br>
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+
+  <br>
+
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+
+  <br>
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+  <img align="center" alt="C++" height="30" width="40" src="https://img.shields.io/badge/-c++-00599C?logo=c++&logoColor=white&style=for-the-badge">  
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+</div>
 
 
 
