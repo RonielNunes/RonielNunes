@@ -9,10 +9,15 @@
 ## 📈 **Stats**
 
 <div align="center">
+  
   <br>
+  
   <a href="https://github.com/RonielNunes"></a>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonielNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonielNunes&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div>
 
 <!--Icones : https://github.com/devicons/devicon/tree/master/icons-->
