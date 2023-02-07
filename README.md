@@ -1,8 +1,8 @@
 # 🌎 **Hello, World!** **:D**.**I'm** **Roniel**👋
 
-🇪🇸 : [Versión en español]()
+  <p align="center"><a href="">🇪🇸 : Versión en español<a/><p/>
+  <p align="center"><a href="">🇧🇷 : Versão em português<a/><p/>
 
-🇧🇷 : [Versão em português]()
 
 - 👨‍💻 Computer Science Student at Universidade Federal de Viçosa(UFV) - Campus Florestal;
 
