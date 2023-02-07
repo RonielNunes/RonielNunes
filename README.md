@@ -70,7 +70,7 @@
   
   <!--  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square) --> 
   <!--  https://github.com/antonkomarev/github-profile-views-counter -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=RonielNunes&style=for-the-badge&color=dc143c">
+  <img align="center" src="https://komarev.com/ghpvc/?username=RonielNunes&style=for-the-badge&color=4b6da7">
 
   
 </div>
