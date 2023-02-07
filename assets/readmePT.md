@@ -1,19 +1,19 @@
-# 🌎 **Hello, World!** **:D**.**I'm** **Roniel**👋
+# 🌎 **Olá, Mundo!** **:D**.**Eu sou o Roniel!**👋
 
-  <p align="center"><a href="assets\readmeES.md">🇪🇸 : Versión en español<a/><p/>
-  <p align="center"><a href="./assets/readmePT.md">🇧🇷 : Versão em português<a/><p/>
-
-
-- 👨‍💻 Computer Science Student at Universidade Federal de Viçosa(UFV) - Campus Florestal;
-
-My name is Roniel and I am a Computer Science student at the Federal University of Viçosa (UFV). I'm a software developer passionate about solving complex problems through technology, especially in the field of machine learning and deep learning. I believe that programming is a powerful tool to turn ideas into reality and I have an enhanced dedication to learning and applying new knowledge.
-
-My goal is to contribute to the development of new technologies and use my developer skills and knowledge in machine learning and deep learning to create innovative and efficient solutions. I have a creative approach to problem solving and always look to optimize and improve code.
-
-> By Roniel
+  <p align="center"><a href="../README.md">Voltar<a/><p/>
+ 
 
 
-## 📈 **Stats**
+- 👨‍💻 Estudante de Ciência da Computação na Universidade Federal de Viçosa(UFV) - Campus Florestal;
+
+
+Meu nome é Roniel e sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV). Sou um desenvolvedor de software apaixonado por resolver problemas complexos através da tecnologia, especialmente no campo de aprendizado de máquina e aprendizado profundo. Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade e tenho uma dedicação aprimorada para aprender e aplicar novos conhecimentos.
+
+Meu objetivo é contribuir com o desenvolvimento de novas tecnologias e usar minhas habilidades de desenvolvedor e conhecimentos em aprendizado de máquina e aprendizado profundo para criar soluções inovadoras e eficientes. Tenho uma abordagem criativa para resolução de problemas e sempre busco otimizar e melhorar o código.
+
+
+
+## 📈 **Estatísticas**
 
 <div align="center">
   
@@ -29,7 +29,7 @@ My goal is to contribute to the development of new technologies and use my devel
 
 <!--Icones : https://github.com/devicons/devicon/tree/master/icons-->
 
-## 🛠 **Technologies and Tools**  
+## 🛠 **Tecnológias e Ferramentas**  
 <div align="center" style="display: inline_block">
   <br>
   <br>
@@ -81,21 +81,3 @@ My goal is to contribute to the development of new technologies and use my devel
 
   
 </div>
-
-<!--
-
-Meu nome é Roniel e sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV). Sou um desenvolvedor de software apaixonado por resolver problemas complexos através da tecnologia, especialmente no campo de aprendizado de máquina e aprendizado profundo. Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade e tenho uma dedicação aprimorada para aprender e aplicar novos conhecimentos.
-
-Meu objetivo é contribuir com o desenvolvimento de novas tecnologias e usar minhas habilidades de desenvolvedor e conhecimentos em aprendizado de máquina e aprendizado profundo para criar soluções inovadoras e eficientes. Tenho uma abordagem criativa para resolução de problemas e sempre busco otimizar e melhorar o código.
-
-> Por Roniel 
-
-Mi nombre es Roniel y soy estudiante de Informática en la Universidad Federal de Viçosa (UFV). Soy un desarrollador de software apasionado por resolver problemas complejos a través de la tecnología, especialmente en el campo del aprendizaje automático y el aprendizaje profundo. Creo que la programación es una herramienta poderosa para convertir ideas en realidad y tengo una mayor dedicación para aprender y aplicar nuevos conocimientos.
-
-Mi objetivo es contribuir al desarrollo de nuevas tecnologías y utilizar mis habilidades y conocimientos de desarrollador en aprendizaje automático y aprendizaje profundo para crear soluciones innovadoras y eficientes. Tengo un enfoque creativo para la resolución de problemas y siempre busco optimizar y mejorar el código.
-
-> Por Roniel
-
-
--->
-
