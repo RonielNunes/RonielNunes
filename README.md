@@ -61,8 +61,16 @@
   
   <br>
   <br>
+  
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">'
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+
+   <br>
+   <br>
+  
+  <!--  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square) --> 
+  <!--  https://github.com/antonkomarev/github-profile-views-counter -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=RonielNunes&style=for-the-badge&color=dc143c">
 
   
 </div>
