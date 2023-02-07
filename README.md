@@ -6,6 +6,13 @@
 
 - 👨‍💻 Computer Science Student at Universidade Federal de Viçosa(UFV) - Campus Florestal;
 
+My name is Roniel and I am a Computer Science student at the Federal University of Viçosa (UFV). I'm a software developer passionate about solving complex problems through technology, especially in the field of machine learning and deep learning. I believe that programming is a powerful tool to turn ideas into reality and I have an enhanced dedication to learning and applying new knowledge.
+
+My goal is to contribute to the development of new technologies and use my developer skills and knowledge in machine learning and deep learning to create innovative and efficient solutions. I have a creative approach to problem solving and always look to optimize and improve code.
+
+> By Roniel
+
+
 ## 📈 **Stats**
 
 <div align="center">
